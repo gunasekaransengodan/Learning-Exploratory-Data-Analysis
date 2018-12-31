@@ -1,2 +1,2 @@
-# Learning-Exploratory-Data-Analysis
+# Learning Exploratory Data Analysis
 Exploratory Data Analysis.
